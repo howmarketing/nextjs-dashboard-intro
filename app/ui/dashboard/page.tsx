@@ -1,7 +1,3 @@
-
-
-export const Page = () => {
+export default function Page() {
     return (<>Page Dashboard</>)
 }
-
-export default Page;
