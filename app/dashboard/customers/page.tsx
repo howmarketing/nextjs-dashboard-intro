@@ -1,7 +1,3 @@
-
-
-export const Page = () => {
-    return (<p>Dashboard Page {`>`} Costumer</p>)
+export default function Page() {
+    return <p>Customers Page</p>;
 }
-
-export default Page;

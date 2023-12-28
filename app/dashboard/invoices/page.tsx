@@ -1,7 +1,3 @@
-
-
-export const Page = () => {
+export default function Page() {
     return (<p>Dashboard Page {`>`} Invoices</p>)
 }
-
-export default Page;
